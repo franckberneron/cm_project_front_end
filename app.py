@@ -15,6 +15,9 @@ if uploaded_file is not None:
 
 
 
+# A supprimer 
+import datetime
+
 pickup_date = st.date_input('pickup datetime', value=datetime.datetime(2012, 10, 6, 12, 10, 20))
 pickup_time = st.time_input('pickup datetime', value=datetime.datetime(2012, 10, 6, 12, 10, 20))
 pickup_datetime = f'{pickup_date} {pickup_time}'
