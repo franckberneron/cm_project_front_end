@@ -1,0 +1,8 @@
+{
+    'How is the agreement called?': {'score': 0.5816403031349182, 'start': 17159, 'end': 17172, 'answer': 'Miscellaneous'
+    }, 'When is agreement date?': {'score': 0.5166928172111511, 'start': 8175, 'end': 8196, 'answer': 'Monday through Friday'
+    }, 'When is effective date?': {'score': 0.5066280961036682, 'start': 8175, 'end': 8196, 'answer': 'Monday through Friday'
+    }, 'When is expiry date?': {'score': 0.5931758284568787, 'start': 8175, 'end': 8196, 'answer': 'Monday through Friday'
+    }, 'Which state law governs the agreement?': {'score': 0.8112032413482666, 'start': 17648, 'end': 17667, 'answer': 'State of California'
+    }
+}
