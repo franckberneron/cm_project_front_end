@@ -1,3 +1,4 @@
 streamlit
+streamlit.components.v1
 google-cloud-storage
 requests
