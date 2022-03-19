@@ -1,5 +1,4 @@
 import streamlit as st
-import streamlit.components.v1 as components
 from uploader import storage_upload
 from io import StringIO
 import base64
